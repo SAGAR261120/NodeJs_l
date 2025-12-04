@@ -1,0 +1,24 @@
+{
+  "title": "The Hitchhiker's Guide to the Galaxy",
+  "author": "Douglas Adams",
+  "publication_year": 1979,
+  "genres": ["Science Fiction", "Comedy"],
+  "available": true,
+  "details": {
+    "pages": 193,
+    "publisher": "Pan Books",
+    "isbn": "0345391802"
+  },
+  "reviews": [
+    {
+      "reviewer": "Alice",
+      "rating": 5,
+      "comment": "A hilarious and thought-provoking classic!"
+    },
+    {
+      "reviewer": "Bob",
+      "rating": 4,
+      "comment": "Great book, but a bit confusing at times."
+    }
+  ]
+}
